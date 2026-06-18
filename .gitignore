@@ -1,0 +1,50 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+langgraph_env/
+langgraph_env3/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# API keys and credentials
+*.pem
+*.key
+credentials.json
+service-account.json
+
+# VS Code
+.vscode/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
