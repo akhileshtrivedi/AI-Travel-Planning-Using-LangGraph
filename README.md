@@ -87,7 +87,7 @@ TAVILY_API_KEY=your_tavily_api_key
 
 AVIATIONSTACK_API_KEY=your_aviationstack_api_key
 
-DATABASE_URL=postgresql://postgres:postgres@localhost:5433/langgraph_memory_demo
+DATABASE_URL=postgresql://postgres:postgres@localhost:5433/langgraph_memory
 
 
 ---
@@ -135,7 +135,7 @@ This will launch the Multi-Agent AI web application.
 
 #### Example Prompt
 
-Plan a complete 7 days Japan trip including flights, hotels and sightseeing under 2 lakhs.
+Plan a complete 7 days Japan trip from Delhi including flights, hotels and sightseeing under 2 lakhs.
 
 
 ---
