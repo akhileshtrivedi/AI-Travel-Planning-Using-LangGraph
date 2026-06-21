@@ -70,7 +70,7 @@ You will need them later while creating the database connection string.
 
 Open PostgreSQL and run:
 
-CREATE DATABASE langgraph_memory_demo;
+CREATE DATABASE langgraph_memory;
 
 
 ---
